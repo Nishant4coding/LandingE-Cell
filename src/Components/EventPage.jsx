@@ -87,7 +87,7 @@ const EventPage = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 mb-40">
           <div className=" p-6 rounded-lg shadow-lg hover:shadow-xl transition duration-300">
             <h2 className="text-3xl font-semibold mb-4 text-yellow-400">
-             Yukti Portal
+             E-Summit
             </h2>
             <p className="text-gray-400 leading-relaxed">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec

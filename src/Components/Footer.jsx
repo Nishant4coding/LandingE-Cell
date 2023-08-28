@@ -73,7 +73,7 @@ const Footer = () => {
             </div>
             <div className="flex items-center ">
               <MdLocationPin className=" text-5xl mr-2 text-yellow-400" />
-              <p>
+              <p className="text-left">
                 Plot No.2, Sector 17-A Yamuna Expressway, Greater Noida, Gautam
                 Buddh Nagar, Uttar Pradesh, India Opposite Buddh International
                 Circuit.

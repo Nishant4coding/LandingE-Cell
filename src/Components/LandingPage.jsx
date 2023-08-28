@@ -106,7 +106,7 @@ const LandingPage = () => {
               href="#about"
               className="text-golden hover:text-red transition duration-300"
             >
-              <FaArrowDown className="inline-block text-7xl arrow-animation"  onClick={handleClose}/>
+              <FaArrowDown className="inline-block text-7xl arrow-animation"/>
             </a>
           </div>
         </section>
